@@ -1,0 +1,10 @@
+version: "3"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    command: python webtoon_downloader.py "https://www.webtoons.com/en/drama/lookism/list?title_no=1049&page=1" --seperate  --images-format 'png' --end 1  
+

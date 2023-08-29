@@ -349,7 +349,8 @@ def download_image(
     progress.update(chapter_download_task_id, advance=1)
     if resp.status_code == 200:
         resp.raw.decode_content = True
-        file_name = f"{chapter_number:0{zeros}d}_{page_number}"
+        
+        file_name = f"{chapter_number:03d} - {page_number:03d}"
         if image_format == "png":
             Image.open(resp.raw).save(os.path.join(dest, f"{file_name}.png"))
         else:
@@ -364,6 +365,7 @@ def download_image(
             chapter_number,
             resp.status_code,
         )
+
 
 
 def exit_handler(sig, frame):

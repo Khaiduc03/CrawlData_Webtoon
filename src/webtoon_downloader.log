@@ -1,0 +1,560 @@
+2023-08-29 09:29:34,381 - WARNING  - Creading Directory: [#80BBA6]./data[/] - webtoon_downloader.py - 515 - __main__
+2023-08-29 09:29:34,669 - INFO     - Sending request to 'https://www.webtoons.com/en/drama/lookism/ep-454-workers-1st-affiliate-6/viewer?title_no=1049&episode_no=1' - webtoon_downloader.py - 262 - __main__
+2023-08-29 09:29:35,337 - DEBUG    - [italic red]Accessing[/italic red] chapter 1 - webtoon_downloader.py - 416 - __main__
+2023-08-29 09:29:35,684 - DEBUG    - Requesting chapter 1: page 0 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:35,685 - DEBUG    - Requesting chapter 1: page 1 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:35,686 - DEBUG    - Requesting chapter 1: page 2 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:35,688 - DEBUG    - Requesting chapter 1: page 3 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,345 - DEBUG    - Requesting chapter 1: page 4 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,370 - DEBUG    - Requesting chapter 1: page 5 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,411 - DEBUG    - Requesting chapter 1: page 6 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,456 - DEBUG    - Requesting chapter 1: page 7 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,696 - DEBUG    - Requesting chapter 1: page 8 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,722 - DEBUG    - Requesting chapter 1: page 9 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,809 - DEBUG    - Requesting chapter 1: page 10 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,933 - DEBUG    - Requesting chapter 1: page 11 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:36,964 - DEBUG    - Requesting chapter 1: page 12 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,045 - DEBUG    - Requesting chapter 1: page 13 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,254 - DEBUG    - Requesting chapter 1: page 14 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,269 - DEBUG    - Requesting chapter 1: page 15 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,274 - DEBUG    - Requesting chapter 1: page 16 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,407 - DEBUG    - Requesting chapter 1: page 17 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,530 - DEBUG    - Requesting chapter 1: page 18 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,740 - DEBUG    - Requesting chapter 1: page 19 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,757 - DEBUG    - Requesting chapter 1: page 20 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,765 - DEBUG    - Requesting chapter 1: page 21 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:37,966 - DEBUG    - Requesting chapter 1: page 22 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,021 - DEBUG    - Requesting chapter 1: page 23 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,093 - DEBUG    - Requesting chapter 1: page 24 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,167 - DEBUG    - Requesting chapter 1: page 25 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,232 - DEBUG    - Requesting chapter 1: page 26 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,385 - DEBUG    - Requesting chapter 1: page 27 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,445 - DEBUG    - Requesting chapter 1: page 28 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,501 - DEBUG    - Requesting chapter 1: page 29 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,540 - DEBUG    - Requesting chapter 1: page 30 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,900 - DEBUG    - Requesting chapter 1: page 31 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,928 - DEBUG    - Requesting chapter 1: page 32 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,952 - DEBUG    - Requesting chapter 1: page 33 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:38,978 - DEBUG    - Requesting chapter 1: page 34 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,217 - DEBUG    - Requesting chapter 1: page 35 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,266 - DEBUG    - Requesting chapter 1: page 36 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,313 - DEBUG    - Requesting chapter 1: page 37 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,396 - DEBUG    - Requesting chapter 1: page 38 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,522 - DEBUG    - Requesting chapter 1: page 39 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,534 - DEBUG    - Requesting chapter 1: page 40 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,761 - DEBUG    - Requesting chapter 1: page 41 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,799 - DEBUG    - Requesting chapter 1: page 42 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,926 - DEBUG    - Requesting chapter 1: page 43 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:39,955 - DEBUG    - Requesting chapter 1: page 44 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:40,312 - DEBUG    - Requesting chapter 1: page 45 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:40,542 - DEBUG    - Requesting chapter 1: page 46 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:40,797 - DEBUG    - Requesting chapter 1: page 47 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:40,820 - DEBUG    - Requesting chapter 1: page 48 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:41,011 - DEBUG    - Requesting chapter 1: page 49 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:41,422 - DEBUG    - Requesting chapter 1: page 50 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:41,448 - DEBUG    - Requesting chapter 1: page 51 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:41,669 - DEBUG    - Requesting chapter 1: page 52 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:41,855 - DEBUG    - Requesting chapter 1: page 53 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,078 - DEBUG    - Requesting chapter 1: page 54 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,171 - DEBUG    - Requesting chapter 1: page 55 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,266 - DEBUG    - Requesting chapter 1: page 56 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,469 - DEBUG    - Requesting chapter 1: page 57 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,476 - DEBUG    - Requesting chapter 1: page 58 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,527 - DEBUG    - Requesting chapter 1: page 59 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,666 - DEBUG    - Requesting chapter 1: page 60 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,826 - DEBUG    - Requesting chapter 1: page 61 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,897 - DEBUG    - Requesting chapter 1: page 62 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:42,941 - DEBUG    - Requesting chapter 1: page 63 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,075 - DEBUG    - Requesting chapter 1: page 64 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,249 - DEBUG    - Requesting chapter 1: page 65 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,261 - DEBUG    - Requesting chapter 1: page 66 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,266 - DEBUG    - Requesting chapter 1: page 67 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,547 - DEBUG    - Requesting chapter 1: page 68 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,560 - DEBUG    - Requesting chapter 1: page 69 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,678 - DEBUG    - Requesting chapter 1: page 70 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,695 - DEBUG    - Requesting chapter 1: page 71 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:43,947 - DEBUG    - Requesting chapter 1: page 72 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,084 - DEBUG    - Requesting chapter 1: page 73 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,096 - DEBUG    - Requesting chapter 1: page 74 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,136 - DEBUG    - Requesting chapter 1: page 75 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,428 - DEBUG    - Requesting chapter 1: page 76 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,501 - DEBUG    - Requesting chapter 1: page 77 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,581 - DEBUG    - Requesting chapter 1: page 78 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,590 - DEBUG    - Requesting chapter 1: page 79 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,735 - DEBUG    - Requesting chapter 1: page 80 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:44,928 - DEBUG    - Requesting chapter 1: page 81 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,016 - DEBUG    - Requesting chapter 1: page 82 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,040 - DEBUG    - Requesting chapter 1: page 83 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,135 - DEBUG    - Requesting chapter 1: page 84 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,289 - DEBUG    - Requesting chapter 1: page 85 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,352 - DEBUG    - Requesting chapter 1: page 86 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,472 - DEBUG    - Requesting chapter 1: page 87 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,550 - DEBUG    - Requesting chapter 1: page 88 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,569 - DEBUG    - Requesting chapter 1: page 89 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,737 - DEBUG    - Requesting chapter 1: page 90 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,868 - DEBUG    - Requesting chapter 1: page 91 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,885 - DEBUG    - Requesting chapter 1: page 92 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:45,992 - DEBUG    - Requesting chapter 1: page 93 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,033 - DEBUG    - Requesting chapter 1: page 94 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,103 - DEBUG    - Requesting chapter 1: page 95 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,199 - DEBUG    - Requesting chapter 1: page 96 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,318 - DEBUG    - Requesting chapter 1: page 97 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,430 - DEBUG    - Requesting chapter 1: page 98 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,500 - DEBUG    - Requesting chapter 1: page 99 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,538 - DEBUG    - Requesting chapter 1: page 100 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,583 - DEBUG    - Requesting chapter 1: page 101 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,776 - DEBUG    - Requesting chapter 1: page 102 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,878 - DEBUG    - Requesting chapter 1: page 103 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:46,989 - DEBUG    - Requesting chapter 1: page 104 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,033 - DEBUG    - Requesting chapter 1: page 105 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,046 - DEBUG    - Requesting chapter 1: page 106 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,202 - DEBUG    - Requesting chapter 1: page 107 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,267 - DEBUG    - Requesting chapter 1: page 108 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,469 - DEBUG    - Requesting chapter 1: page 109 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,519 - DEBUG    - Requesting chapter 1: page 110 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,652 - DEBUG    - Requesting chapter 1: page 111 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,702 - DEBUG    - Requesting chapter 1: page 112 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,837 - DEBUG    - Requesting chapter 1: page 113 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:47,901 - DEBUG    - Requesting chapter 1: page 114 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:29:48,305 - INFO     - Chapter 1 download complete with a total of 115 pages [green]✓ - webtoon_downloader.py - 445 - __main__
+2023-08-29 09:30:48,825 - ERROR    - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) - webtoon_downloader.py - 663 - __main__
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/ssl.py", line 1019, in _create
+    self.getpeername()
+OSError: [Errno 107] Transport endpoint is not connected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connection.py", line 642, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connection.py", line 783, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/local/lib/python3.8/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/usr/local/lib/python3.8/ssl.py", line 1031, in _create
+    notconn_pre_handshake_data = self.recv(1)
+  File "/usr/local/lib/python3.8/ssl.py", line 1261, in recv
+    return super().recv(buflen, flags)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connection.py", line 642, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/connection.py", line 783, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/usr/local/lib/python3.8/site-packages/urllib3/util/ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/local/lib/python3.8/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/usr/local/lib/python3.8/ssl.py", line 1031, in _create
+    notconn_pre_handshake_data = self.recv(1)
+  File "/usr/local/lib/python3.8/ssl.py", line 1261, in recv
+    return super().recv(buflen, flags)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "webtoon_downloader.py", line 653, in main
+    download_webtoon(
+  File "webtoon_downloader.py", line 508, in download_webtoon
+    resp = session.get(series_url, headers=headers)
+  File "/usr/local/lib/python3.8/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/requests/adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2023-08-29 09:30:53,629 - WARNING  - Creading Directory: [#80BBA6]/home/khai/Downloads[/] - webtoon_downloader.py - 515 - __main__
+2023-08-29 09:30:53,952 - INFO     - Sending request to 'https://www.webtoons.com/en/drama/lookism/ep-454-workers-1st-affiliate-6/viewer?title_no=1049&episode_no=1' - webtoon_downloader.py - 262 - __main__
+2023-08-29 09:30:54,718 - DEBUG    - [italic red]Accessing[/italic red] chapter 1 - webtoon_downloader.py - 416 - __main__
+2023-08-29 09:30:55,123 - DEBUG    - Requesting chapter 1: page 0 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:55,124 - DEBUG    - Requesting chapter 1: page 1 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:55,124 - DEBUG    - Requesting chapter 1: page 2 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:55,127 - DEBUG    - Requesting chapter 1: page 3 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,084 - DEBUG    - Requesting chapter 1: page 4 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,096 - DEBUG    - Requesting chapter 1: page 5 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,185 - DEBUG    - Requesting chapter 1: page 6 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,394 - DEBUG    - Requesting chapter 1: page 7 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,579 - DEBUG    - Requesting chapter 1: page 8 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:56,961 - DEBUG    - Requesting chapter 1: page 9 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,016 - DEBUG    - Requesting chapter 1: page 10 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,051 - DEBUG    - Requesting chapter 1: page 11 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,370 - DEBUG    - Requesting chapter 1: page 12 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,759 - DEBUG    - Requesting chapter 1: page 13 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,766 - DEBUG    - Requesting chapter 1: page 14 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:30:57,769 - DEBUG    - Requesting chapter 1: page 15 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:02,844 - DEBUG    - Requesting chapter 1: page 16 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:02,973 - DEBUG    - Requesting chapter 1: page 17 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,094 - DEBUG    - Requesting chapter 1: page 18 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,304 - DEBUG    - Requesting chapter 1: page 19 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,427 - DEBUG    - Requesting chapter 1: page 20 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,453 - DEBUG    - Requesting chapter 1: page 21 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,482 - DEBUG    - Requesting chapter 1: page 22 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,632 - DEBUG    - Requesting chapter 1: page 23 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,806 - DEBUG    - Requesting chapter 1: page 24 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,842 - DEBUG    - Requesting chapter 1: page 25 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:03,886 - DEBUG    - Requesting chapter 1: page 26 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,091 - DEBUG    - Requesting chapter 1: page 27 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,107 - DEBUG    - Requesting chapter 1: page 28 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,242 - DEBUG    - Requesting chapter 1: page 29 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,287 - DEBUG    - Requesting chapter 1: page 30 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,426 - DEBUG    - Requesting chapter 1: page 31 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,441 - DEBUG    - Requesting chapter 1: page 32 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,722 - DEBUG    - Requesting chapter 1: page 33 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,727 - DEBUG    - Requesting chapter 1: page 34 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,861 - DEBUG    - Requesting chapter 1: page 35 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:04,890 - DEBUG    - Requesting chapter 1: page 36 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,163 - DEBUG    - Requesting chapter 1: page 37 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,211 - DEBUG    - Requesting chapter 1: page 38 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,242 - DEBUG    - Requesting chapter 1: page 39 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,268 - DEBUG    - Requesting chapter 1: page 40 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,584 - DEBUG    - Requesting chapter 1: page 41 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,660 - DEBUG    - Requesting chapter 1: page 42 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,684 - DEBUG    - Requesting chapter 1: page 43 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,697 - DEBUG    - Requesting chapter 1: page 44 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:05,976 - DEBUG    - Requesting chapter 1: page 45 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,085 - DEBUG    - Requesting chapter 1: page 46 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,115 - DEBUG    - Requesting chapter 1: page 47 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,155 - DEBUG    - Requesting chapter 1: page 48 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,387 - DEBUG    - Requesting chapter 1: page 49 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,456 - DEBUG    - Requesting chapter 1: page 50 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,458 - DEBUG    - Requesting chapter 1: page 51 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,516 - DEBUG    - Requesting chapter 1: page 52 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:06,960 - DEBUG    - Requesting chapter 1: page 53 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,000 - DEBUG    - Requesting chapter 1: page 54 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,021 - DEBUG    - Requesting chapter 1: page 55 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,048 - DEBUG    - Requesting chapter 1: page 56 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,309 - DEBUG    - Requesting chapter 1: page 57 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,401 - DEBUG    - Requesting chapter 1: page 58 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,433 - DEBUG    - Requesting chapter 1: page 59 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,439 - DEBUG    - Requesting chapter 1: page 60 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,583 - DEBUG    - Requesting chapter 1: page 61 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,709 - DEBUG    - Requesting chapter 1: page 62 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,765 - DEBUG    - Requesting chapter 1: page 63 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:07,843 - DEBUG    - Requesting chapter 1: page 64 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,031 - DEBUG    - Requesting chapter 1: page 65 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,099 - DEBUG    - Requesting chapter 1: page 66 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,151 - DEBUG    - Requesting chapter 1: page 67 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,175 - DEBUG    - Requesting chapter 1: page 68 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,427 - DEBUG    - Requesting chapter 1: page 69 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,463 - DEBUG    - Requesting chapter 1: page 70 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,468 - DEBUG    - Requesting chapter 1: page 71 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,590 - DEBUG    - Requesting chapter 1: page 72 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,945 - DEBUG    - Requesting chapter 1: page 73 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,954 - DEBUG    - Requesting chapter 1: page 74 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,976 - DEBUG    - Requesting chapter 1: page 75 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:08,998 - DEBUG    - Requesting chapter 1: page 76 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,374 - DEBUG    - Requesting chapter 1: page 77 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,392 - DEBUG    - Requesting chapter 1: page 78 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,427 - DEBUG    - Requesting chapter 1: page 79 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,469 - DEBUG    - Requesting chapter 1: page 80 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,674 - DEBUG    - Requesting chapter 1: page 81 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,700 - DEBUG    - Requesting chapter 1: page 82 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,746 - DEBUG    - Requesting chapter 1: page 83 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:09,791 - DEBUG    - Requesting chapter 1: page 84 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:10,098 - DEBUG    - Requesting chapter 1: page 85 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:10,258 - DEBUG    - Requesting chapter 1: page 86 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:10,278 - DEBUG    - Requesting chapter 1: page 87 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:10,307 - DEBUG    - Requesting chapter 1: page 88 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:10,979 - DEBUG    - Requesting chapter 1: page 89 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:11,255 - DEBUG    - Requesting chapter 1: page 90 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:11,309 - DEBUG    - Requesting chapter 1: page 91 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:11,688 - DEBUG    - Requesting chapter 1: page 92 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:11,934 - DEBUG    - Requesting chapter 1: page 93 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,082 - DEBUG    - Requesting chapter 1: page 94 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,109 - DEBUG    - Requesting chapter 1: page 95 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,121 - DEBUG    - Requesting chapter 1: page 96 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,127 - DEBUG    - Requesting chapter 1: page 97 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,755 - DEBUG    - Requesting chapter 1: page 98 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,770 - DEBUG    - Requesting chapter 1: page 99 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,813 - DEBUG    - Requesting chapter 1: page 100 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:17,817 - DEBUG    - Requesting chapter 1: page 101 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,179 - DEBUG    - Requesting chapter 1: page 102 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,243 - DEBUG    - Requesting chapter 1: page 103 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,269 - DEBUG    - Requesting chapter 1: page 104 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,306 - DEBUG    - Requesting chapter 1: page 105 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,595 - DEBUG    - Requesting chapter 1: page 106 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,645 - DEBUG    - Requesting chapter 1: page 107 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,685 - DEBUG    - Requesting chapter 1: page 108 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,755 - DEBUG    - Requesting chapter 1: page 109 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:18,990 - DEBUG    - Requesting chapter 1: page 110 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:19,034 - DEBUG    - Requesting chapter 1: page 111 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:19,083 - DEBUG    - Requesting chapter 1: page 112 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:19,142 - DEBUG    - Requesting chapter 1: page 113 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:19,335 - DEBUG    - Requesting chapter 1: page 114 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:31:19,771 - INFO     - Chapter 1 download complete with a total of 115 pages [green]✓ - webtoon_downloader.py - 445 - __main__
+2023-08-29 09:33:16,577 - WARNING  - Creading Directory: [#80BBA6]../../../../../python[/] - webtoon_downloader.py - 515 - __main__
+2023-08-29 09:33:16,876 - INFO     - Sending request to 'https://www.webtoons.com/en/drama/lookism/ep-454-workers-1st-affiliate-6/viewer?title_no=1049&episode_no=1' - webtoon_downloader.py - 262 - __main__
+2023-08-29 09:33:17,605 - DEBUG    - [italic red]Accessing[/italic red] chapter 1 - webtoon_downloader.py - 416 - __main__
+2023-08-29 09:33:18,003 - DEBUG    - Requesting chapter 1: page 0 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,003 - DEBUG    - Requesting chapter 1: page 1 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,004 - DEBUG    - Requesting chapter 1: page 2 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,005 - DEBUG    - Requesting chapter 1: page 3 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,542 - DEBUG    - Requesting chapter 1: page 4 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,552 - DEBUG    - Requesting chapter 1: page 5 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,594 - DEBUG    - Requesting chapter 1: page 6 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,639 - DEBUG    - Requesting chapter 1: page 7 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,905 - DEBUG    - Requesting chapter 1: page 8 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:18,991 - DEBUG    - Requesting chapter 1: page 9 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,026 - DEBUG    - Requesting chapter 1: page 10 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,102 - DEBUG    - Requesting chapter 1: page 11 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,176 - DEBUG    - Requesting chapter 1: page 12 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,379 - DEBUG    - Requesting chapter 1: page 13 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,433 - DEBUG    - Requesting chapter 1: page 14 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,516 - DEBUG    - Requesting chapter 1: page 15 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,558 - DEBUG    - Requesting chapter 1: page 16 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,693 - DEBUG    - Requesting chapter 1: page 17 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,904 - DEBUG    - Requesting chapter 1: page 18 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,958 - DEBUG    - Requesting chapter 1: page 19 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:19,962 - DEBUG    - Requesting chapter 1: page 20 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,160 - DEBUG    - Requesting chapter 1: page 21 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,258 - DEBUG    - Requesting chapter 1: page 22 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,476 - DEBUG    - Requesting chapter 1: page 23 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,480 - DEBUG    - Requesting chapter 1: page 24 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,533 - DEBUG    - Requesting chapter 1: page 25 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,637 - DEBUG    - Requesting chapter 1: page 26 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,833 - DEBUG    - Requesting chapter 1: page 27 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,874 - DEBUG    - Requesting chapter 1: page 28 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:20,925 - DEBUG    - Requesting chapter 1: page 29 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,075 - DEBUG    - Requesting chapter 1: page 30 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,321 - DEBUG    - Requesting chapter 1: page 31 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,325 - DEBUG    - Requesting chapter 1: page 32 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,412 - DEBUG    - Requesting chapter 1: page 33 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,544 - DEBUG    - Requesting chapter 1: page 34 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,729 - DEBUG    - Requesting chapter 1: page 35 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,770 - DEBUG    - Requesting chapter 1: page 36 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,792 - DEBUG    - Requesting chapter 1: page 37 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:21,966 - DEBUG    - Requesting chapter 1: page 38 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,039 - DEBUG    - Requesting chapter 1: page 39 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,065 - DEBUG    - Requesting chapter 1: page 40 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,138 - DEBUG    - Requesting chapter 1: page 41 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,388 - DEBUG    - Requesting chapter 1: page 42 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,426 - DEBUG    - Requesting chapter 1: page 43 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,593 - DEBUG    - Requesting chapter 1: page 44 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,668 - DEBUG    - Requesting chapter 1: page 45 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,733 - DEBUG    - Requesting chapter 1: page 46 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:22,883 - DEBUG    - Requesting chapter 1: page 47 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,024 - DEBUG    - Requesting chapter 1: page 48 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,064 - DEBUG    - Requesting chapter 1: page 49 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,118 - DEBUG    - Requesting chapter 1: page 50 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,310 - DEBUG    - Requesting chapter 1: page 51 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,390 - DEBUG    - Requesting chapter 1: page 52 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,434 - DEBUG    - Requesting chapter 1: page 53 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,513 - DEBUG    - Requesting chapter 1: page 54 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,703 - DEBUG    - Requesting chapter 1: page 55 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,722 - DEBUG    - Requesting chapter 1: page 56 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,899 - DEBUG    - Requesting chapter 1: page 57 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:23,927 - DEBUG    - Requesting chapter 1: page 58 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,095 - DEBUG    - Requesting chapter 1: page 59 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,143 - DEBUG    - Requesting chapter 1: page 60 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,213 - DEBUG    - Requesting chapter 1: page 61 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,304 - DEBUG    - Requesting chapter 1: page 62 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,646 - DEBUG    - Requesting chapter 1: page 63 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,650 - DEBUG    - Requesting chapter 1: page 64 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,658 - DEBUG    - Requesting chapter 1: page 65 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,714 - DEBUG    - Requesting chapter 1: page 66 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,968 - DEBUG    - Requesting chapter 1: page 67 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:24,971 - DEBUG    - Requesting chapter 1: page 68 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,131 - DEBUG    - Requesting chapter 1: page 69 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,169 - DEBUG    - Requesting chapter 1: page 70 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,398 - DEBUG    - Requesting chapter 1: page 71 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,642 - DEBUG    - Requesting chapter 1: page 72 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,664 - DEBUG    - Requesting chapter 1: page 73 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:25,969 - DEBUG    - Requesting chapter 1: page 74 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:26,114 - DEBUG    - Requesting chapter 1: page 75 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:26,198 - DEBUG    - Requesting chapter 1: page 76 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:26,418 - DEBUG    - Requesting chapter 1: page 77 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:26,487 - DEBUG    - Requesting chapter 1: page 78 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:26,632 - DEBUG    - Requesting chapter 1: page 79 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,034 - DEBUG    - Requesting chapter 1: page 80 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,043 - DEBUG    - Requesting chapter 1: page 81 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,147 - DEBUG    - Requesting chapter 1: page 82 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,213 - DEBUG    - Requesting chapter 1: page 83 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,534 - DEBUG    - Requesting chapter 1: page 84 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,588 - DEBUG    - Requesting chapter 1: page 85 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,657 - DEBUG    - Requesting chapter 1: page 86 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,681 - DEBUG    - Requesting chapter 1: page 87 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,864 - DEBUG    - Requesting chapter 1: page 88 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:27,998 - DEBUG    - Requesting chapter 1: page 89 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,052 - DEBUG    - Requesting chapter 1: page 90 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,087 - DEBUG    - Requesting chapter 1: page 91 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,333 - DEBUG    - Requesting chapter 1: page 92 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,337 - DEBUG    - Requesting chapter 1: page 93 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,426 - DEBUG    - Requesting chapter 1: page 94 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,459 - DEBUG    - Requesting chapter 1: page 95 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,785 - DEBUG    - Requesting chapter 1: page 96 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,800 - DEBUG    - Requesting chapter 1: page 97 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,839 - DEBUG    - Requesting chapter 1: page 98 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:28,901 - DEBUG    - Requesting chapter 1: page 99 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,192 - DEBUG    - Requesting chapter 1: page 100 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,205 - DEBUG    - Requesting chapter 1: page 101 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,234 - DEBUG    - Requesting chapter 1: page 102 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,294 - DEBUG    - Requesting chapter 1: page 103 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,574 - DEBUG    - Requesting chapter 1: page 104 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,611 - DEBUG    - Requesting chapter 1: page 105 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,666 - DEBUG    - Requesting chapter 1: page 106 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,729 - DEBUG    - Requesting chapter 1: page 107 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:29,885 - DEBUG    - Requesting chapter 1: page 108 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,084 - DEBUG    - Requesting chapter 1: page 109 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,128 - DEBUG    - Requesting chapter 1: page 110 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,131 - DEBUG    - Requesting chapter 1: page 111 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,321 - DEBUG    - Requesting chapter 1: page 112 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,555 - DEBUG    - Requesting chapter 1: page 113 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,560 - DEBUG    - Requesting chapter 1: page 114 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:33:30,975 - INFO     - Chapter 1 download complete with a total of 115 pages [green]✓ - webtoon_downloader.py - 445 - __main__
+2023-08-29 09:35:10,104 - WARNING  - Creading Directory: [#80BBA6]Lookism[/] - webtoon_downloader.py - 515 - __main__
+2023-08-29 09:35:10,428 - INFO     - Sending request to 'https://www.webtoons.com/en/drama/lookism/ep-454-workers-1st-affiliate-6/viewer?title_no=1049&episode_no=1' - webtoon_downloader.py - 262 - __main__
+2023-08-29 09:35:11,120 - DEBUG    - [italic red]Accessing[/italic red] chapter 1 - webtoon_downloader.py - 416 - __main__
+2023-08-29 09:35:11,900 - DEBUG    - Requesting chapter 1: page 0 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:11,900 - DEBUG    - Requesting chapter 1: page 1 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:11,901 - DEBUG    - Requesting chapter 1: page 2 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:11,902 - DEBUG    - Requesting chapter 1: page 3 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:12,681 - DEBUG    - Requesting chapter 1: page 4 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:12,713 - DEBUG    - Requesting chapter 1: page 5 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:12,756 - DEBUG    - Requesting chapter 1: page 6 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:12,793 - DEBUG    - Requesting chapter 1: page 7 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,042 - DEBUG    - Requesting chapter 1: page 8 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,083 - DEBUG    - Requesting chapter 1: page 9 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,203 - DEBUG    - Requesting chapter 1: page 10 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,264 - DEBUG    - Requesting chapter 1: page 11 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,301 - DEBUG    - Requesting chapter 1: page 12 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,387 - DEBUG    - Requesting chapter 1: page 13 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,550 - DEBUG    - Requesting chapter 1: page 14 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,674 - DEBUG    - Requesting chapter 1: page 15 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,708 - DEBUG    - Requesting chapter 1: page 16 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,766 - DEBUG    - Requesting chapter 1: page 17 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:13,987 - DEBUG    - Requesting chapter 1: page 18 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,059 - DEBUG    - Requesting chapter 1: page 19 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,072 - DEBUG    - Requesting chapter 1: page 20 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,192 - DEBUG    - Requesting chapter 1: page 21 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,359 - DEBUG    - Requesting chapter 1: page 22 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,385 - DEBUG    - Requesting chapter 1: page 23 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,456 - DEBUG    - Requesting chapter 1: page 24 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,624 - DEBUG    - Requesting chapter 1: page 25 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,724 - DEBUG    - Requesting chapter 1: page 26 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,839 - DEBUG    - Requesting chapter 1: page 27 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:14,870 - DEBUG    - Requesting chapter 1: page 28 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,043 - DEBUG    - Requesting chapter 1: page 29 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,178 - DEBUG    - Requesting chapter 1: page 30 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,230 - DEBUG    - Requesting chapter 1: page 31 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,282 - DEBUG    - Requesting chapter 1: page 32 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,520 - DEBUG    - Requesting chapter 1: page 33 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,608 - DEBUG    - Requesting chapter 1: page 34 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,612 - DEBUG    - Requesting chapter 1: page 35 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,766 - DEBUG    - Requesting chapter 1: page 36 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:15,791 - DEBUG    - Requesting chapter 1: page 37 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,160 - DEBUG    - Requesting chapter 1: page 38 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,165 - DEBUG    - Requesting chapter 1: page 39 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,169 - DEBUG    - Requesting chapter 1: page 40 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,205 - DEBUG    - Requesting chapter 1: page 41 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,517 - DEBUG    - Requesting chapter 1: page 42 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,535 - DEBUG    - Requesting chapter 1: page 43 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,596 - DEBUG    - Requesting chapter 1: page 44 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,622 - DEBUG    - Requesting chapter 1: page 45 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,887 - DEBUG    - Requesting chapter 1: page 46 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,952 - DEBUG    - Requesting chapter 1: page 47 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,976 - DEBUG    - Requesting chapter 1: page 48 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:16,993 - DEBUG    - Requesting chapter 1: page 49 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,233 - DEBUG    - Requesting chapter 1: page 50 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,396 - DEBUG    - Requesting chapter 1: page 51 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,428 - DEBUG    - Requesting chapter 1: page 52 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,438 - DEBUG    - Requesting chapter 1: page 53 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,645 - DEBUG    - Requesting chapter 1: page 54 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,752 - DEBUG    - Requesting chapter 1: page 55 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,789 - DEBUG    - Requesting chapter 1: page 56 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:17,903 - DEBUG    - Requesting chapter 1: page 57 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,178 - DEBUG    - Requesting chapter 1: page 58 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,271 - DEBUG    - Requesting chapter 1: page 59 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,278 - DEBUG    - Requesting chapter 1: page 60 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,315 - DEBUG    - Requesting chapter 1: page 61 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,643 - DEBUG    - Requesting chapter 1: page 62 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,648 - DEBUG    - Requesting chapter 1: page 63 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,656 - DEBUG    - Requesting chapter 1: page 64 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,688 - DEBUG    - Requesting chapter 1: page 65 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,945 - DEBUG    - Requesting chapter 1: page 66 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,992 - DEBUG    - Requesting chapter 1: page 67 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:18,996 - DEBUG    - Requesting chapter 1: page 68 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,088 - DEBUG    - Requesting chapter 1: page 69 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,402 - DEBUG    - Requesting chapter 1: page 70 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,430 - DEBUG    - Requesting chapter 1: page 71 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,441 - DEBUG    - Requesting chapter 1: page 72 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,491 - DEBUG    - Requesting chapter 1: page 73 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,758 - DEBUG    - Requesting chapter 1: page 74 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,863 - DEBUG    - Requesting chapter 1: page 75 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,873 - DEBUG    - Requesting chapter 1: page 76 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:19,887 - DEBUG    - Requesting chapter 1: page 77 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,254 - DEBUG    - Requesting chapter 1: page 78 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,298 - DEBUG    - Requesting chapter 1: page 79 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,331 - DEBUG    - Requesting chapter 1: page 80 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,345 - DEBUG    - Requesting chapter 1: page 81 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,608 - DEBUG    - Requesting chapter 1: page 82 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,611 - DEBUG    - Requesting chapter 1: page 83 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,713 - DEBUG    - Requesting chapter 1: page 84 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:20,826 - DEBUG    - Requesting chapter 1: page 85 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,056 - DEBUG    - Requesting chapter 1: page 86 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,058 - DEBUG    - Requesting chapter 1: page 87 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,307 - DEBUG    - Requesting chapter 1: page 88 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,363 - DEBUG    - Requesting chapter 1: page 89 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,452 - DEBUG    - Requesting chapter 1: page 90 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,468 - DEBUG    - Requesting chapter 1: page 91 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,633 - DEBUG    - Requesting chapter 1: page 92 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,665 - DEBUG    - Requesting chapter 1: page 93 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,850 - DEBUG    - Requesting chapter 1: page 94 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:21,863 - DEBUG    - Requesting chapter 1: page 95 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,105 - DEBUG    - Requesting chapter 1: page 96 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,108 - DEBUG    - Requesting chapter 1: page 97 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,199 - DEBUG    - Requesting chapter 1: page 98 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,249 - DEBUG    - Requesting chapter 1: page 99 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,554 - DEBUG    - Requesting chapter 1: page 100 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,557 - DEBUG    - Requesting chapter 1: page 101 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,571 - DEBUG    - Requesting chapter 1: page 102 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,630 - DEBUG    - Requesting chapter 1: page 103 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:22,896 - DEBUG    - Requesting chapter 1: page 104 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,046 - DEBUG    - Requesting chapter 1: page 105 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,091 - DEBUG    - Requesting chapter 1: page 106 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,109 - DEBUG    - Requesting chapter 1: page 107 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,379 - DEBUG    - Requesting chapter 1: page 108 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,536 - DEBUG    - Requesting chapter 1: page 109 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,573 - DEBUG    - Requesting chapter 1: page 110 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,577 - DEBUG    - Requesting chapter 1: page 111 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,869 - DEBUG    - Requesting chapter 1: page 112 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:23,888 - DEBUG    - Requesting chapter 1: page 113 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:24,055 - DEBUG    - Requesting chapter 1: page 114 - webtoon_downloader.py - 347 - __main__
+2023-08-29 09:35:24,448 - INFO     - Chapter 1 download complete with a total of 115 pages [green]✓ - webtoon_downloader.py - 445 - __main__
