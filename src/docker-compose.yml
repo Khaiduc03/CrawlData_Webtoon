@@ -6,5 +6,7 @@ services:
       dockerfile: Dockerfile
     volumes:
       - .:/app
-    command: python webtoon_downloader.py "https://www.webtoons.com/en/drama/lookism/list?title_no=1049&page=1" --seperate  --images-format 'png' --end 1  
+      - ../../:/shared_folder
+    command: python webtoon_downloader.py "https://www.webtoons.com/en/romance/retired-demon-king/list?title_no=5111" --seperate  --images-format 'png' --latest --dest ../shared_folder 
+
 

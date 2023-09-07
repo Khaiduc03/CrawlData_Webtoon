@@ -41,6 +41,7 @@ from options import Options
 class ChapterInfo:
     title: str
     """Chapter title"""
+ 
     chapter_number: int
     """Released chapter number"""
     data_episode_no: int
@@ -52,6 +53,7 @@ class ChapterInfo:
 
     def __post_init__(self):
         object.__setattr__(self, "sort_index", self.chapter_number)
+ 
 
 
 class ThreadPoolExecutorWithQueueSizeLimit(ThreadPoolExecutor):
@@ -273,6 +275,10 @@ def get_chapters_details(
             soup.find("div", class_="episode_cont").find_all("li"), start=1
         )
     ]
+    titles = [chapter_info.title for chapter_info in chapter_details]
+    print(chapter_details)
+   
+
 
     return chapter_details[int(start_chapter or 1) - 1 : end_chapter]
 
@@ -350,7 +356,7 @@ def download_image(
     if resp.status_code == 200:
         resp.raw.decode_content = True
         
-        file_name = f"{chapter_number:03d} - {page_number:03d}"
+        file_name = f"{page_number:03d}"
         if image_format == "png":
             Image.open(resp.raw).save(os.path.join(dest, f"{file_name}.png"))
         else:
@@ -509,6 +515,7 @@ def download_webtoon(
     soup = BeautifulSoup(resp.text, "lxml")
     viewer_url = get_chapter_viewer_url(soup)
     series_title = get_series_title(soup)
+    print(series_title)
     if not (dest):
         dest = slugify_file_name(series_title)
     if not os.path.exists(dest):
@@ -562,7 +569,7 @@ def download_webtoon(
                 chapters_to_download, N_CONCURRENT_CHAPTERS_DOWNLOAD
             ):
                 chapter_dest = (
-                    os.path.join(dest, f"{chapter_info.chapter_number:0{zeros}d}")
+                    os.path.join(dest, f"{chapter_info.title} ")
                     if separate_chapters
                     else dest
                 )
