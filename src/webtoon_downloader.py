@@ -517,7 +517,7 @@ def download_webtoon(
     series_title = get_series_title(soup)
     print(series_title)
     if not (dest):
-        dest = slugify_file_name(series_title)
+        dest = os.path.join("image", slugify_file_name(series_title))
     if not os.path.exists(dest):
         log.warning("Creading Directory: [#80BBA6]%s[/]", dest)
         os.makedirs(dest)  # creates directory and sub-dirs if dest path does not exist
